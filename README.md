@@ -7,7 +7,7 @@ This is a project to track your daily prepration in a ordered way.
   <b>
     <ol>
       <li>React Js</li>
-      <li>Local Base to store your data in client computer.</li>
+      <li><a href='https://github.com/dannyconnell/localbase'>LocalBase  </a>to store your data in client computer.</li>
       <li>JavaScript</li>
       <li>CSS</li>
       <li>HTML5</li>
