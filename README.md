@@ -1,7 +1,19 @@
-# Getting Started with Create React App
+# Prepration Diary
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project to track your daily prepration in a ordered way.
 
+##Used Technologies 
+<p>
+  <b>
+    <ol>
+      <li>React Js</li>
+      <li>Local Base to store your data in client computer.</li>
+      <li>JavaScript</li>
+      <li>CSS</li>
+      <li>HTML5</li>
+    </ol>
+  </b>
+</p>
 ## Available Scripts
 
 In the project directory, you can run:
