@@ -2,7 +2,7 @@
 
 This is a project to track your daily prepration in a ordered way.
 
-##Used Technologies 
+## Used Technologies 
 <p>
   <b>
     <ol>
